@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "CSV Comparator";
+}
+
+<h1>CSV Comparator</h1>
+
+<form asp-action="CompareCsv" method="post" enctype="multipart/form-data">
+    <div>
+        <label for="file1">CSV File 1:</label>
+        <input type="file" id="file1" name="file1" />
+    </div>
+    <div>
+        <label for="file2">CSV File 2:</label>
+        <input type="file" id="file2" name="file2" />
+    </div>
+    <div>
+        <button type="submit">Compare</button>
+    </div>
+</form>

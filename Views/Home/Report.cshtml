@@ -1,0 +1,33 @@
+@model CsvComparator.Models.DiscrepancyReport
+
+<h1>Discrepancy Report</h1>
+
+<h2>Missing Rows</h2>
+@if (Model.MissingRows.Any())
+{
+    <ul>
+        @foreach (var row in Model.MissingRows)
+        {
+            <li>@row</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No missing rows.</p>
+}
+
+<h2>Missing Columns</h2>
+@if (Model.MissingColumns.Any())
+{
+    <ul>
+        @foreach (var column in Model.MissingColumns)
+        {
+            <li>@column</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No missing columns.</p>
+}
