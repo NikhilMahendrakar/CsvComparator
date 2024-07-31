@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/CsvComparator.csproj",
+      "projectUniqueName": "/Users/nikhil/Documents/TestFolder/CSVComparator/CsvComparator/CsvComparator.csproj",
       "projectName": "CsvComparator",
-      "projectPath": "/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/CsvComparator.csproj",
+      "projectPath": "/Users/nikhil/Documents/TestFolder/CSVComparator/CsvComparator/CsvComparator.csproj",
       "packagesPath": "/Users/nikhil/.nuget/packages/",
-      "outputPath": "/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/obj/",
+      "outputPath": "/Users/nikhil/Documents/TestFolder/CSVComparator/CsvComparator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikhil/.nuget/NuGet/NuGet.Config"
