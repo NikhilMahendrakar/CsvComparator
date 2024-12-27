@@ -1,0 +1,7 @@
+/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/bin/Release/net8.0/publish/CsvComparator
+/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/bin/Release/net8.0/publish/appsettings.json
+/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/bin/Release/net8.0/publish/CsvComparator.dll
+/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/bin/Release/net8.0/publish/CsvComparator.deps.json
+/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/bin/Release/net8.0/publish/CsvComparator.runtimeconfig.json
+/Users/nikhil/Documents/SummerProjects/CSVDiscrepancyfinder(C#)/CsvComparator/bin/Release/net8.0/publish/CsvComparator.pdb
