@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsvComparator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68616d4b79f55650d715fe7a11407c03d4b68bef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae0046aac0c8102d7749d27805c0fa47a8122c79")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsvComparator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsvComparator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
